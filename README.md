@@ -7,7 +7,9 @@ Key highlights
 
 2. By using power bi tool, Paseo leads in sales and profits; Canada, France, and government sales dominate unit performance, while France and Germany show the highest profitability are analysed. 
 
-3. This project resulted as , U.S. struggles with profitability despite high sales; costs and discounts are driven by Paseo and Small Business, with seasonal sales directly impacting COGS.  
+3. This project resulted as , U.S. struggles with profitability despite high sales; costs and discounts are driven by Paseo and Small Business, with seasonal sales directly impacting COGS.
+
+    
 PBIX FILE : https://drive.google.com/file/d/1D81_IHg7UIh6K_vZcIPWiNeluVW8yqhq/view?usp=sharing
 
 PDF FILE : https://drive.google.com/file/d/16HEYS7SOzo1c3hjww3Bym9kXJXGu1lax/view?usp=sharing
